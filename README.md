@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jdthegenomicdatascientist
 - 👀 I’m interested in data science at its applications in genomics
-- 🌱 I’m currently learning python & brushing up on biology
+- 🌱 I’m currently learning python & brushing up on genertics/genomics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jediaeldsr@gmail.com
 
