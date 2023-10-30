@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jdthegenomicdatascientist
+- 👋 Hi, I’m @jdthedatascientist
 - 👀 I’m interested in data science at its applications in genomics
 - 🌱 I’m currently learning python & brushing up on genetics/genomics
 - 💞️ I’m looking to collaborate on ...
